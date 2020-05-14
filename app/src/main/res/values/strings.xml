@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Firewall Authenticator</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">LOGIN</string>
+    <string name="you_are_logged_in_successfully">You are logged in Successfully!</string>
+    <string name="please_keep_this_app_open_in_background">Please, leave this app open in background.</string>
+    <string name="logout">Logout</string>
+    <string name="need_help_for_logging_out">Need Help for Logging Out?</string>
+    <string name="g_hostel">G-hostel</string>
+    <string name="make_sure_you_are_connected_to_the_wifi_from_which_you_want_to_logout">Make sure you are connected to the wifi from which you want to logout.</string>
+    <string name="c_hostel">C-hostel</string>
+    <string name="remember_me">Remember Me</string>
+</resources>
